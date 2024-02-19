@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.hamburger{
+    width: 2rem;
+}
+
+.main-logo{
+    width: 20%;
+}
+.hamburger{
+    border: none;
+}
+
+.c-heading{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
