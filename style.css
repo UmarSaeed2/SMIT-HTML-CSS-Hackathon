@@ -4,6 +4,8 @@
     box-sizing: border-box;
 }
 
+/* nav  */
+
 .hamburger{
     width: 2rem;
 }
@@ -17,6 +19,14 @@
     display: none;
   }
 } */
+
+/* carouser */
+
+.c-imag-box{
+    width: 50%;
+}
+
+
 
 .c-heading{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
